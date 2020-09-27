@@ -1,0 +1,29 @@
+body{
+  
+    background-color: black;
+    background-size: cover;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.clock {
+	text-align: center;
+
+	margin-top: 100px;
+    font-size: 120px;
+    color:#9400D4;
+    
+  
+    
+}
+.ap {
+	font-size: 27px;
+	background: #9400D4;
+	color: black;
+    padding: 0px 15px;
+    display: inline-block;
+
+	/* margin-bottom: 47px; */
+}
+
+
