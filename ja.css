@@ -27,7 +27,7 @@ body{
 }
 @media(max-width:610px){
     .clock{
-        font-size: 80px;
+        font-size: 110px;
         margin-top: 200px;
         color:#9400D4;
     }
@@ -39,7 +39,7 @@ body{
 @media(max-width:500px){
     .clock{
         
-        color:red;
+        color:#9400D4;
     }
     .ap{
        margin: 0 auto;
@@ -56,6 +56,24 @@ body{
         
     }
 }
-
-
+@media(max-width:360px){
+    .clock{
+        font-size: 80px;
+        color:#9400D4;
+    }
+    .ap{
+       margin: 0 auto;
+        
+    }
+}
+@media(max-width:320px){
+    .clock{
+        font-size: 70px;
+        color:#9400D4;
+    }
+    .ap{
+       margin: 0 auto;
+        
+    }
+}
 
