@@ -36,5 +36,15 @@ body{
         
     }
 }
+@media(max-width:500px){
+    .clock{
+        
+        color:red;
+    }
+    .ap{
+       margin: 0 auto;
+        
+    }
+}
 
 
