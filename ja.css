@@ -25,5 +25,16 @@ body{
 
 	/* margin-bottom: 47px; */
 }
+@media(max-width:610px){
+    .clock{
+        font-size: 80px;
+        margin-top: 200px;
+        color:#9400D4;
+    }
+    .ap{
+       margin: 0 auto;
+        
+    }
+}
 
 
