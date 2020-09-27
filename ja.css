@@ -27,7 +27,7 @@ body{
 }
 @media(max-width:610px){
     .clock{
-        font-size: 100px;
+        font-size: 80px;
         margin-top: 200px;
         color:#9400D4;
     }
@@ -36,7 +36,7 @@ body{
         
     }
 }
-@media(max-width:510px){
+@media(max-width:px){
     .clock{
         
         color:red;
